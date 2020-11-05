@@ -1,5 +1,5 @@
 #include<fstream>
-#inclu\e<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 struct node {
     long long int val;
